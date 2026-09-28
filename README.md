@@ -1,4 +1,4 @@
-## Hello, I'm Yujin!
+## Hello, I'm Yujin. Thanks for stopping by!
 
 <!--
 **Pinkbear20056/Pinkbear20056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="readme image.jpg" width="300" style="margin-left: 40px; margin-right: 120px; margin-top: 30px;"  />
+
 ### 🐳 I'm  • • •
 - Backend Developer | Software Engineer
 - Computing Science student @ Simon Fraser University
@@ -30,3 +33,5 @@ Here are some ideas to get you started:
 - loop engineering with coding agents
 - backend architecture and system design
 - robotics simulation and safety
+
+### 🫧 Languages & Frameworks  • • •
