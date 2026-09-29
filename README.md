@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🐳 I'm  • • •
 - Backend Developer | Software Engineer
-- Computing Science student @ Simon Fraser University
+- Undergraduate Computing Science student @ [Simon Fraser University](https://www.sfu.ca/)
 - AI automation enthusiast
 
 ### 🌊 I enjoy  • • •
